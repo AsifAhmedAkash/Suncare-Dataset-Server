@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "UV Protection Sunglasses",
+            "brand": "SunShade",
+            "price": 15,
+            "rating": 4.7,
+            "stock": 10,
+            "description": "Stylish UV protection sunglasses perfect for summer outings.",
+            "image": "https://i.postimg.cc/0Qd7zW7y/sunglasses.png",
+            "category": "Accessories"
+        },
+        {
+            "id": 2,
+            "name": "Cooling Water Bottle",
+            "brand": "HydroMax",
+            "price": 12,
+            "rating": 4.5,
+            "stock": 25,
+            "description": "Insulated stainless steel bottle that keeps drinks cold for 24 hours.",
+            "image": "https://i.postimg.cc/3xJZyWvM/water-bottle.png",
+            "category": "Outdoor"
+        },
+        {
+            "id": 3,
+            "name": "Beach Hat",
+            "brand": "SunnyWear",
+            "price": 18,
+            "rating": 4.6,
+            "stock": 15,
+            "description": "Wide-brimmed straw hat offering excellent sun protection.",
+            "image": "https://i.postimg.cc/4yZyWvM1/beach-hat.png",
+            "category": "Fashion"
+        },
+        {
+            "id": 4,
+            "name": "Portable Mini Fan",
+            "brand": "CoolBreeze",
+            "price": 10,
+            "rating": 4.4,
+            "stock": 30,
+            "description": "Rechargeable handheld fan ideal for hot summer days.",
+            "image": "https://i.postimg.cc/7ZyWvM2F/mini-fan.png",
+            "category": "Electronics"
+        },
+        {
+            "id": 5,
+            "name": "Aloe Vera Gel",
+            "brand": "NatureGlow",
+            "price": 8,
+            "rating": 4.8,
+            "stock": 20,
+            "description": "Soothing aloe vera gel for sunburn relief and skin hydration.",
+            "image": "https://i.postimg.cc/9ZyWvM3G/aloe-vera.png",
+            "category": "Skincare"
+        },
+        {
+            "id": 6,
+            "name": "Beach Towel",
+            "brand": "WaveSoft",
+            "price": 14,
+            "rating": 4.5,
+            "stock": 18,
+            "description": "Large, quick-dry microfiber towel perfect for beach or pool use.",
+            "image": "https://i.postimg.cc/2ZyWvM4H/beach-towel.png",
+            "category": "Home & Travel"
+        }
+    ]
+}
