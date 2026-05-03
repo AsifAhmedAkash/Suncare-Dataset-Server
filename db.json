@@ -8,7 +8,7 @@
             "rating": 4.7,
             "stock": 10,
             "description": "Stylish UV protection sunglasses perfect for summer outings.",
-            "image": "https://ibb.co.com/RpNy8cwy",
+            "image": "https://i.ibb.co.com/0jKt5rbt/glass.png",
             "category": "Accessories"
         },
         {
@@ -19,7 +19,7 @@
             "rating": 4.5,
             "stock": 25,
             "description": "Insulated stainless steel bottle that keeps drinks cold for 24 hours.",
-            "image": "https://ibb.co.com/HLwNf6bQ",
+            "image": "https://i.ibb.co.com/1Yyst1Px/coolingbottle.jpg",
             "category": "Outdoor"
         },
         {
@@ -30,7 +30,7 @@
             "rating": 4.6,
             "stock": 15,
             "description": "Wide-brimmed straw hat offering excellent sun protection.",
-            "image": "https://ibb.co.com/Q1QdTnJ",
+            "image": "https://i.ibb.co.com/xRLHBG2/hat.png",
             "category": "Fashion"
         },
         {
@@ -41,7 +41,7 @@
             "rating": 4.4,
             "stock": 30,
             "description": "Rechargeable handheld fan ideal for hot summer days.",
-            "image": "https://ibb.co.com/wrpJHNyp",
+            "image": "https://i.ibb.co.com/pr4WDv24/fan.png",
             "category": "Electronics"
         },
         {
@@ -52,7 +52,7 @@
             "rating": 4.8,
             "stock": 20,
             "description": "Soothing aloe vera gel for sunburn relief and skin hydration.",
-            "image": "https://ibb.co.com/WWqb7yBy",
+            "image": "https://i.ibb.co.com/bgqSYBNB/gel.jpg",
             "category": "Skincare"
         },
         {
@@ -63,7 +63,7 @@
             "rating": 4.5,
             "stock": 18,
             "description": "Large, quick-dry microfiber towel perfect for beach or pool use.",
-            "image": "https://ibb.co.com/67QRhC6f",
+            "image": "https://i.ibb.co.com/S4SXTCq9/towel.png",
             "category": "Home & Travel"
         }
     ]
